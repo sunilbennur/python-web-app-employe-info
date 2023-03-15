@@ -17,6 +17,7 @@ db_conn = connections.Connection(
     db=customdb
 
 )
+#Employee table out put 
 output = {}
 table = 'employee'
 
